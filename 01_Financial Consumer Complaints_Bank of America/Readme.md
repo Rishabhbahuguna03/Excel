@@ -63,7 +63,7 @@ to evaluate Bank of America's performance relative to industry standards.
 
 ### Tools Used
 - Data Analysis: Microsoft Excel — data cleaning, pivot tables, charts, dashboard
-- Presentation: Canva
+- Presentation: Overleaf
 
 ### Data Cleaning Steps
 - Duplicated raw sheet — preserved original as audit trail
@@ -111,6 +111,7 @@ to evaluate Bank of America's performance relative to industry standards.
 
 - [CFPB Consumer Response Annual Report 2023]
   (https://www.consumerfinance.gov)
+- [Bank of America Corporation Annual Report 2024](https://investor.bankofamerica.com)  
 - [Maven Analytics Dataset — Financial Consumer Complaints]
   (https://mavenanalytics.io)
 - [Storytelling with Data (2015) by Cole Nussbaumer Knaflic](https://amzn.to/3DZNzOv)
