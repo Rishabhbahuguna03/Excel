@@ -1,4 +1,4 @@
-# Bank of America — Financial Consumer Complaints Analysis
+# Financial Consumer Complaints Analysis | Bank of America
 ### CFPB Public Data | 2017–2023 | 62,516 Records
 
 ---
@@ -50,7 +50,7 @@ to evaluate Bank of America's performance relative to industry standards.
 ### 3. Resolution Quality
 - Overall monetary relief = 23.5% vs 1.5% industry average — misleading headline
 - At product level: credit card 7.7% vs 15% industry — 50% below benchmark
-- No product where Bank of America exceeds industry monetary relief benchmark
+- No product where Bank of America exceeds the industry monetary relief benchmark
 
 ### 4. Untimely Response Risk
 - Overall untimely rate = 3.94% — 4x the industry average
@@ -75,7 +75,7 @@ to evaluate Bank of America's performance relative to industry standards.
 ### Analysis Framework
 - 4 pivot tables answering 4 business questions
 - `COUNTIFS` for filtered segment analysis
-- Benchmarked all findings against CFPB 2023 Annual Report
+- Benchmarked all findings against the CFPB 2023 Annual Report
 
 ---
 
@@ -111,7 +111,6 @@ to evaluate Bank of America's performance relative to industry standards.
 
 - [CFPB Consumer Response Annual Report 2023]
   (https://www.consumerfinance.gov)
-- [Bank of America Corporation Annual Report 2024](https://investor.bankofamerica.com)  
 - [Maven Analytics Dataset — Financial Consumer Complaints]
   (https://mavenanalytics.io)
 - [Storytelling with Data (2015) by Cole Nussbaumer Knaflic](https://amzn.to/3DZNzOv)
@@ -121,5 +120,5 @@ to evaluate Bank of America's performance relative to industry standards.
 ## Author
 
 Rishabh Bahuguna
-[LinkedIn](https://www.linkedin.com/in/rishabhbahuguna03)  
-[GitHub](https://www.github.com/Rishabhbahuguna03)
+
+[LinkedIn](https://www.linkedin.com/in/rishabhbahuguna03) | [GitHub](https://www.github.com/Rishabhbahuguna03)
