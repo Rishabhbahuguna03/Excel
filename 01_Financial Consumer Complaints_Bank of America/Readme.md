@@ -6,7 +6,7 @@
 ## Project Overview
 
 This project analyzes 62,516 consumer complaints filed against Bank of America 
-with the Consumer Financial Protection Bureau (CFPB) between 2017 and 2023. 
+with the Consumer Financial Protection Bureau (CFPB) between 2017 and 2023 for US Cities. 
 Findings are benchmarked against the CFPB Consumer Response Annual Report 2023 
 to evaluate Bank of America's performance relative to industry standards.
 
@@ -81,38 +81,43 @@ to evaluate Bank of America's performance relative to industry standards.
 
 ## Dashboard Preview
 
-![Dashboard](visuals/dashboard_overview.png)
+![Dashboard](https://github.com/Rishabhbahuguna03/Excel/blob/main/01_Financial%20Consumer%20Complaints_Bank%20of%20America/02_Visuals/dashboard_overview.png)
 
 ---
 
 ## Repository Structure
 ```
+
 ├── README.md
-├── data/
-│   └── file name
-├── analysis/
-│   └── file name
-├── excel/
-│   └── file name
+├── Dataset_and_Analysis/
+│   ├── 01_Consumer_Complaints_Dataset
+│   ├── 02_ConsumerComplaints_DataDictionary
+│   └── 03_Consumer_Complaints_Analysis
 ├── visuals/
-│   ├── file name.png
-│   ├── file name.png
-│   ├── file name.png
-│   └── file name.png
+│   ├── 01_Bank_of_America_Logo.png
+│   ├── 02_chart1_seasonal_patterns.png
+│   ├── 03_chart1b_july2023_breakdown.png
+│   ├── 04_chart2a_product_volume.png
+│   ├── 05_chart2b_issue_breakdown.png
+│   ├── 06_chart3a_resolution_bar.png
+│   ├── 07_chart3b_resolution_by_product.png
+│   ├── 08_chart4b_untimely_product.png
+│   ├── 09_chart4c_untimely_channel.png
+│   └── 10_dashboard_overview.png
 ├── presentation/
-│   └── file name.pdf
+│   └── Financial_Consumer_Complaints_Analysis.pdf
 └── references/
-    └── cfpb_report_notes.md
+    ├── cfpb_cr-annual-report_2023-03
+    └── BAC+2024+Annual+Report
 ```
 
 ---
 
 ## References
 
-- [CFPB Consumer Response Annual Report 2023]
-  (https://www.consumerfinance.gov)
-- [Maven Analytics Dataset — Financial Consumer Complaints]
-  (https://mavenanalytics.io)
+- [BOAC Investor Annual Report 2024](https://investor.bankofamerica.com/)
+- [CFPB Consumer Response Annual Report 2023](https://www.consumerfinance.gov)
+- [Maven Analytics Dataset — Financial Consumer Complaints](https://mavenanalytics.io)
 - [Storytelling with Data (2015) by Cole Nussbaumer Knaflic](https://amzn.to/3DZNzOv)
 
 ---
