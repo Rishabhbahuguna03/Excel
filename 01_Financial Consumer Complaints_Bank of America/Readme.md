@@ -105,10 +105,10 @@ to evaluate Bank of America's performance relative to industry standards.
 │   ├── 09_chart4c_untimely_channel.png
 │   └── 10_dashboard_overview.png
 ├── presentation/
-│   └── Financial_Consumer_Complaints_Analysis.pdf
+│   └── 01_Financial_Consumer_Complaints_Analysis.pdf
 └── references/
-    ├── cfpb_cr-annual-report_2023-03
-    └── BAC+2024+Annual+Report
+    ├── 01_cfpb_cr-annual-report_2023-03
+    └── 02_BAC+2024+Annual+Report
 ```
 
 ---
