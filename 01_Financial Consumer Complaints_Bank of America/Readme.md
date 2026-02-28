@@ -6,7 +6,7 @@
 ## Project Overview
 
 This project analyzes 62,516 consumer complaints filed against Bank of America 
-with the Consumer Financial Protection Bureau (CFPB) between 2017 and 2023. 
+with the Consumer Financial Protection Bureau (CFPB) between 2017 and 2023 for US Cities. 
 Findings are benchmarked against the CFPB Consumer Response Annual Report 2023 
 to evaluate Bank of America's performance relative to industry standards.
 
@@ -109,10 +109,8 @@ to evaluate Bank of America's performance relative to industry standards.
 
 ## References
 
-- [CFPB Consumer Response Annual Report 2023]
-  (https://www.consumerfinance.gov)
-- [Maven Analytics Dataset — Financial Consumer Complaints]
-  (https://mavenanalytics.io)
+- [CFPB Consumer Response Annual Report 2023](https://www.consumerfinance.gov)
+- [Maven Analytics Dataset — Financial Consumer Complaints](https://mavenanalytics.io)
 - [Storytelling with Data (2015) by Cole Nussbaumer Knaflic](https://amzn.to/3DZNzOv)
 
 ---
