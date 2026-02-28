@@ -62,7 +62,7 @@ to evaluate Bank of America's performance relative to industry standards.
 ## Methodology
 
 ### Tools Used
-- Data Analysis: Microsoft Excel — data cleaning, pivot tables, charts, dashboard
+- Data Analysis: Microsoft Excel
 - Presentation: Overleaf
 
 ### Data Cleaning Steps
@@ -81,7 +81,7 @@ to evaluate Bank of America's performance relative to industry standards.
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/Rishabhbahuguna03/Excel/blob/main/01_Financial%20Consumer%20Complaints_Bank%20of%20America/02_Visuals/dashboard_overview.png)
+![Dashboard](https://github.com/Rishabhbahuguna03/Excel/blob/main/01_Financial%20Consumer%20Complaints_Bank%20of%20America/02_Visuals/10_dashboard_overview.png)
 
 ---
 
